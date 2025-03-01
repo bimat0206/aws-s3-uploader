@@ -1,0 +1,9 @@
+{
+    "aws_profile": "",          
+    "access_key": "",            
+    "secret_key": "",             
+    "region": "ap-southeast-1",       
+    "bucket_name": "bucket_name",  
+    "local_path": "your_local_path", 
+    "s3_prefix": "your_s3_path"      
+}
