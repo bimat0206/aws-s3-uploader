@@ -1,7 +1,7 @@
 # S3 Folder Uploader
 
 ## Overview
-This application allows you to upload a local folder to an S3 bucket with flexible AWS credential configuration.
+This application allows you to upload a local folder to an S3 bucket with flexible AWS credential configuration and allows multiple files to be uploaded simultaneously, which is faster than normal.
 
 ## Prerequisites
 - Go 1.16+ installed
